@@ -26,10 +26,9 @@ Autores
 -------
 
 Maikol Sabogal
-Juan Olivares 
 Andres Leon
-Crisitian Camacho
-Carlos Serrano 
+Camilo Daza
+
 
 
 
