@@ -1,0 +1,7 @@
+1. Limitar los sistemas operativos para los que vamos a ir dirigidos 
+2. Manejo de inventario de hardware y software limitarlo si va didrigido a una sola sede
+3. Implementacion sera por medio de hosting?
+4. Verificar costoso 
+5. quitar oracle 
+6. Vereificar las comunicacions de la base de datos y verificar la base de datos
+7. 
